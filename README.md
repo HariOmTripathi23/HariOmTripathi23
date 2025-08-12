@@ -1,0 +1,47 @@
+# 👋 Hi, I'm Hariom Tripathi  
+
+🎓 **BTech CSE 1st Year** | 💻 Aspiring Software Developer | 🚀 Passionate about coding, problem-solving, and building cool stuff  
+
+---
+
+## 🌟 About Me  
+- 📍 From **Gorakhpur, India**  
+- 📚 Currently pursuing **BTech in Computer Science** at **Deen Dayal Upadhyaya Gorakhpur University**  
+- 💡 Love exploring **new technologies** and working on **creative projects**  
+- 🎯 Goal: Become a **full-stack developer** and contribute to impactful open-source projects  
+
+---
+
+## 🛠️ Tech Stack  
+**Languages:**  
+`C` | `C++` | `Python` | `Java` (basics)  
+
+**Web Development:**  
+`HTML` | `CSS` | `JavaScript` | `Bootstrap`  
+
+**Tools & Platforms:**  
+`Git` | `GitHub` | `VS Code`  
+
+---
+
+## 📌 Featured Projects  
+- 🚀 [Project 1 Name](#) – Short description here  
+- 📱 [Project 2 Name](#) – Short description here  
+- 💡 [Project 3 Name](#) – Short description here  
+
+---
+
+## 📊 GitHub Stats  
+![Hariom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HariOmTripathi23&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HariOmTripathi23&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 Connect with Me  
+- 📧 **Email:** [hariomtripathi232@gmail.com](mailto:hariomtripathi232@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/hariom-tripathi-172ab9360](https://www.linkedin.com/in/hariom-tripathi-172ab9360/)  
+- 🐦 **Twitter:** [twitter.com/yourhandle](#)  
+
+---
+
+⭐ _“Code is like humor. When you have to explain it, it’s bad.”_  
