@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hariom Tripathi  
 
-🎓 **BTech CSE 1st Year** | 💻 Aspiring Software Developer | 🚀 Passionate about coding, problem-solving, and building cool stuff  
+🎓 **BTech CSE IInd Year** | 💻 Aspiring Software Developer | 🚀 Passionate About coding, problem-solving, and building cool stuff  
 
 ---
 
@@ -14,10 +14,10 @@
 
 ## 🛠️ Tech Stack  
 **Languages:**  
-`C` | `C++` | `Python` | `Java` (basics)  
+`C` | `Python` | `Java` (basics)  
 
 **Web Development:**  
-`HTML` | `CSS` | `JavaScript` | `Bootstrap`  
+`HTML` | `CSS` | `JavaScript` 
 
 **Tools & Platforms:**  
 `Git` | `GitHub` | `VS Code`  
