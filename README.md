@@ -38,9 +38,9 @@
 ---
 
 ## 📫 Connect with Me  
-- 📧 **Email:** [hariomtripathi232@gmail.com](mailto:hariomtripathi232@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/hariom-tripathi-172ab9360](https://www.linkedin.com/in/hariom-tripathi-172ab9360/)  
-- 🐦 **Twitter:** [twitter.com/yourhandle](#)  
+- 📧 **Email:** [hariomtripathi1507@gmail.com](mailto:hariomtripathi1507@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/ihariomtripathi](https://www.linkedin.com/in/ihariomtripathi/)  
+- 🐦 **Twitter:** [twitter.com/ihariomtripathi](#ihariomtripathi)  
 
 ---
 
